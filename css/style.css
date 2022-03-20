@@ -8,7 +8,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-.container{
+main{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -29,7 +29,7 @@
     border-radius: 10px;
     margin-bottom: 1.3rem;
 }
-.card .heading h2{
+.card .heading h1{
     margin-bottom: 1rem;
     font-size: 1.5rem;
     color: var(--dark-blue);
